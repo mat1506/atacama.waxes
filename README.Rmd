@@ -23,8 +23,7 @@ knitr::opts_chunk$set(collapse  = TRUE,
 <!-- badges: end -->
 
 
-Research Compendium of the paper **{{Hydroclimate variations over the last 17,000 years as measured by leaf waxes in landscape physiognomy and rodent middens from the south-central Atacama Desert, Chile}}**
-
+Research Compendium for the paper **Hydroclimate variations over the last 17,000 years as measured by leaf waxes in landscape physiognomy and rodent middens from the south-central Atacama Desert, Chile**
 
 
 ### How to cite

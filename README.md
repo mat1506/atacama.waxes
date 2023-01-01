@@ -10,9 +10,9 @@
 [![Dependencies](https://img.shields.io/badge/dependencies-2/94-green?style=flat)](#)
 <!-- badges: end -->
 
-Research Compendium of the paper **{{Hydroclimate variations over the
+Research Compendium for the paper **Hydroclimate variations over the
 last 17,000 years as measured by leaf waxes in landscape physiognomy and
-rodent middens from the south-central Atacama Desert, Chile}}**
+rodent middens from the south-central Atacama Desert, Chile**
 
 ### How to cite
 
