@@ -4,9 +4,9 @@
 \name{atacama.waxes-package}
 \alias{atacama.waxes}
 \alias{atacama.waxes-package}
-\title{atacama.waxes: The Title of the Project}
+\title{atacama.waxes: Hydroclimate variations over the last 17,000 years as measured by leaf waxes in landscape physiognomy and rodent middens from the south-central Atacama Desert, Chile}
 \description{
-A paragraph providing a full description of the project (on several lines...)
+This package is a research compendium of the manuscript "Hydroclimate variations over the last 17,000 years as measured by leaf waxes in rodent middens from the south-central Atacama Desert, Chile", it constitutes a collection of all the digital parts of a research project, including data, code, texts (protocols, reports, questionnaires, metadata).
 }
 \seealso{
 Useful links:

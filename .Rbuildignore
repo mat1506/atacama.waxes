@@ -1,3 +1,5 @@
+^renv$
+^renv\.lock$
 ^atacama\.waxes\.Rproj$
 ^\.Rproj\.user$
 ^\.DS_Store$
@@ -9,3 +11,5 @@
 ^make\.R$
 ^README\.Rmd$
 ^README\.html$
+^Dockerfile$
+^\.dockerignore$

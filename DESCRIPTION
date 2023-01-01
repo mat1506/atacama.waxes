@@ -1,6 +1,6 @@
 Package: atacama.waxes
 Type: Package
-Title: The Title of the Project
+Title: Hydroclimate variations over the last 17,000 years as measured by leaf waxes in landscape physiognomy and rodent middens from the south-central Atacama Desert, Chile
 Version: 0.0.0.9000
 Authors@R: c(
     person(given   = "Matías",
@@ -8,8 +8,7 @@ Authors@R: c(
            role    = c("aut", "cre", "cph"),
            email   = "matutefrugone@gmail.com",
            comment = c(ORCID = "0000-0002-4182-9902")))
-Description: A paragraph providing a full description of the project (on 
-    several lines...)
+Description: This package is a research compendium of the manuscript "Hydroclimate variations over the last 17,000 years as measured by leaf waxes in rodent middens from the south-central Atacama Desert, Chile", it constitutes a collection of all the digital parts of a research project, including data, code, texts (protocols, reports, questionnaires, metadata).
 URL: https://github.com/mat1506/atacama.waxes
 BugReports: https://github.com/mat1506/atacama.waxes/issues
 License: GPL (>= 2)
@@ -17,5 +16,4 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.2
 Imports: 
-    devtools,
-    here
+    renv
