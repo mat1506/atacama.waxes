@@ -1,0 +1,82 @@
+\documentclass{article}
+\usepackage[table]{xcolor}
+\usepackage{booktabs}
+\usepackage{adjustbox}
+\usepackage{array}
+\newcolumntype{L}{>{\itshape}l}
+\begin{document}
+
+\begin{table}[ht]
+\centering
+\begin{adjustbox}{max width=\textwidth}
+\rowcolors{2}{gray!25}{white}
+\begin{large}
+\begin{tabular}{@{}LLLLL@{}}
+\toprule
+\textbf{\textit{Taxa}} & \textbf{Family} & \textbf{Common name} & \textbf{Type} & \textbf{Phytogeographic affinity} \\ \midrule
+\textit{Malvaceae} & Malvaceae & -- & -- & -- \\
+\textit{Chenopodiaceae} & Chenopodiaceae & -- & -- & -- \\
+\textit{Baccharis aff. tola} & Asteraceae & Tola & Shrub & Puna \\
+\textit{Haploppapus} sp. & Asteraceae & -- & -- & Desert \\
+\textit{Cryptantha} sp. & Boraginaceae & Itallapa & Annual & Prepuna \\
+\textit{Brassicaceae aff. Atacama nivea} & Brassicaceae & -- & -- & Desert \\
+\textit{Ephedra americana} & Ephedraceae & Pingo-pingo & Shrub & Puna and Prepuna \\
+\textit{Adesmia} sp. & Fabeceae & Arvejilla & Annual and perennial herbs & Puna and Prepuna \\
+\textit{Phacelia cuminingii} & Hydrophyllaceae & -- & Annual herbs & Puna and Prepuna \\
+\textit{Phacelia pinnatifida} & Hydrophyllaceae & Sobaco negro & Annual and perennial herbs & Prepuna \\
+\textit{Cristaria} sp. & Malvaceae & Malvilla & Annual & Puna and Prepuna \\
+\textit{Pappostipa frigida} & Poaceae & Paja brava & Perennial Grass & Steppa \\
+\textit{Gilia} sp. & Polemoniaceae & -- & Annual & Puna and Prepuna \\
+\textit{Cistanthe} sp. & Portulacaceae & -- & Perennial Grass & Prepuna \\
+\textit{Fabiana} sp. & Solaneaceae & -- & Perennial Grass & Puna \\
+\textit{Junellia bryoides} & Verbebaceae & Rosa de la cordillera & Shrub & Puna \\ \bottomrule
+\end{tabular}
+\end{large}
+\end{adjustbox}
+\caption{Macrofossils identified, including their family, common name, type and phytogeographic affinity.}
+\end{table}
+
+
+\begin{table}[ht]
+\centering
+\begin{adjustbox}{max width=\textwidth}
+\rowcolors{2}{gray!25}{white}
+\begin{large}
+\begin{tabular}{|c|cc|cccc|c>{\centering\arraybackslash}p{1.5cm}|c|c}
+\toprule
+\textbf{\textit{ID}} & \textbf{\textit{ $^{14}$C age}} & \textbf{\textit{SD}} & \textbf{\textit{Lower cal yr BP}} & \textbf{\textit{Upper cal yr BP}} & \textbf{\textit{SD}} & \textbf{\textit{Median}} & \textbf{\textit{Lat $^\circ$}} & \textbf{\textit{Long $^\circ$}} & \textbf{\textit{Midden agent}} \\ \midrule\midrule
+QIN208A & 1310 & 15 & 1270 & 1115 & 35 & 1230 & 25.597 & 69.238 & \textbf{\textit{Abrocoma}} \\
+QIN208B & 180 & 15 & 280 & modern & 90 & 150 & 25.597 & 69.238 & \textbf{\textit{Abrocoma}}  \\
+QIN211 & 8210 & 25 & 9270 & 9010 & 75 & 9105 & 25.597 & 69.238 & \textbf{\textit{Abrocoma}}  \\
+QIN213 & 12855 & 35 & 15505 & 15145 & 90 & 15300 & 25.599 & 69.243 & * \\
+QIN214A & 14150 & 45 & 17350 & 17040 & 85 & 17185 & 25.599 & 69.243 & \textbf{\textit{Abrocoma}}  \\
+QIN214B & 10175 & 25 & 11875 & 11635 & 70 & 11780 & 25.599 & 69.243 & \textbf{\textit{Abrocoma}}  \\
+QIN214C & 12920 & 35 & 15575 & 15245 & 85 & 15400 & 25.599 & 69.243 & \textbf{\textit{Abrocoma}}  \\
+QIN215A & 5700 & 20 & 6540 & 6315 & 45 & 6440 & 25.597 & 69.243 & \textbf{\textit{Abrocoma}}  \\
+QIN215B & 1740 & 15 & 1700 & 1535 & 45 & 1600 & 25.597 & 69.243 & \textbf{\textit{Abrocoma}}  \\
+QIN215C & 3515 & 15 & 3835 & 3645 & 50 & 3755 & 25.597 & 69.243 & \textbf{\textit{Abrocoma}}  \\
+QIN216 & 7895 & 20 & 8775 & 8545 & 65 & 8635 & 25.597 & 69.23 & \textbf{\textit{Phyllotis}} \\
+QIN2171 & 8615 & 25 & 9660 & 9480 & 30 & 9540 & 25.596 & 69.22  & \textbf{\textit{Abrocoma}}   \\
+QIN2172 & 8980  & 25    & 10215 & 9905  & 90    & 10060 & 25.596 & 69.22  & \textbf{\textit{Abrocoma}}   \\
+QIN218 & 11035 & 30    & 13070 & 12795 & 60    & 12925 & 25.595 & 69.235 & \textbf{\textit{Abrocoma}}   \\
+QIN219 & 10480 & 30    & 12605 & 12095 & 135   & 12345 & 25.594 & 69.235 & \textbf{\textit{Phyllotis}} \\
+QIN220A & 9190  & 25    & 10485 & 10230 & 60    & 10300 & 25.594 & 69.235 & *  \\
+QIN237A & 2140  & 15    & 2115  & 2005  & 35    & 2065  & 25.594 & 69.235 & * \\
+QIN237B & 1120  & 20    & 1055  & 925   & 40    & 970   & 25.593 & 69.231 & \textbf{\textit{Abrocoma}} \\
+QIN238 & 9565  & 25    & 11075 & 10690 & 125   & 10865 & 25.597 & 69.238 & \textbf{\textit{Abrocoma}}  \\
+QIN242 & 11705 & 35    & 13600 & 13455 & 45    & 13535 & 25.6   & 69.24  & \textbf{\textit{Abrocoma}}  \\
+QIN243A & 10015 & 25    & 11625 & 11265 & 110   & 11450 & 25.597 & 69.238 & \textbf{\textit{Abrocoma}} \\
+QIN2451 & 11950 & 30    & 14010 & 13605 & 100   & 13775 & 25.597 & 69.238 & *  \\
+QIN2452 & 9125  & 25    & 10340 & 10185 & 35    & 10235 & 25.597 & 69.238 & *  \\
+QIN246 & 10200 & 25    & 11925 & 11650 & 55    & 11810 & 25.597 & 69.238 & \textbf{\textit{Abrocoma}} \\
+QIN249B & 4230  & 20    & 4845  & 4585  & 65    & 4730  & 25.597 & 69.239 & *  \\
+QIN256 & 345   & 15    & 445   & 305   & 40    & 395   & 25.593 & 69.231 & \textbf{\textit{Abrocoma}} \\
+QIN259 & 10105 & 25    & 11765 & 11325 & 125   & 11635 & 25.594 & 69.234 & \textbf{\textit{Abrocoma}}  \\
+QIN260A & 1740 & 15    & 1700 & 1535 & 45 & 1600 & 25.593 & 69.232 & \textbf{\textit{Abrocoma}} \\ \toprule
+\end{tabular}
+\end{large}
+\end{adjustbox}
+\caption{Tabla 2: Site identifying code, radiocarbon dates, calendar year BP (95.4 \% probability ranges; curve Shcal20, Oxcal 4.4) and former agent for 28 rodent middens analyzed (see Fig. 1 for midden localities).SD: standard deviation. *: Unidentified}
+\end{table}
+
+\end{document}

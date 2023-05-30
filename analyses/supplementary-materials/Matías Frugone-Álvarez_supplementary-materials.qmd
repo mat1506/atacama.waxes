@@ -1,0 +1,208 @@
+---
+title: "Supplement of *Hydroclimate variations over the last 17,000 years as estimated by leaf waxes in rodent middens from the south-central Atacama Desert, Chile*"
+author:
+  - name: Matías Frugone-Álvarez
+    email: matutefrugone@gmail.com
+    affiliations: 
+        - id: ucsc
+          name: Universidad Católica de la Santísima Concepción
+          department: Departamento de Química Ambiental
+          address: Alonso de Ribera 2850
+          city: Concepción, Chile
+          state: Concepción
+          postal-code: 4090541
+        - id: aforest
+          name: ANID-Millennium Science Initiative Nucleus (AFOREST)
+          city: Santiago, Chile
+          address: Vicuña Mackenna 4860, Macul
+          postal-code: 7820436
+        - id: upwell
+          name: ANID-Millennium Science Initiative Nucleus (UPWELL)
+          city: La Serena, Chile
+          address: Raúl Bitrán 1305
+    attributes:
+        corresponding: true
+  - name: Sergio Contreras
+    email: scontreras@ucsc.cl
+    affiliations: 
+        - id: ucsc
+          name: Universidad Católica de la Santísima Concepción
+          department: Departamento de Química Ambiental, Facultad de Ciencias
+          address: Alonso de Ribera 2850
+          city: Concepción, Chile
+          state: Concepción
+          postal-code: 4090541
+        - id: cibas
+          name: Centro de Investigación en Biodiversidad y Ambientes Sustentables (CIBAS)
+          address: Alonso de Ribera 2850
+          city: Concepción, Chile  
+    attributes:
+        corresponding: true
+  - name: Oliver Meseguer-Ruiz
+    affiliations:
+        - id: uta
+          name: Universidad de Tarapacá
+          department: Departamento de Ciencias Históricas y Geográficas 
+          address: Luis Emilio Recabarren 2477
+          city: Iquique, Chile
+          postal-code: 1101783
+  - name: Eduardo Tejos
+    affiliations: 
+        - id: ucsc
+          name: Universidad Católica de la Santísima Concepción
+          department: Departamento de Química Ambiental, Facultad de Ciencias
+          address: Alonso de Ribera 2850
+          city: Concepción, Chile
+          state: Concepción
+          postal-code: 4090541
+  - name: Antonio Delgado-Huertas
+    affiliations: 
+        - id: csic-ugr
+          name: Instituto Andaluz de Ciencias de la Tierra (CSIC-UGR)
+          address:  Av. de las Palmeras, 4, 18100 Armilla
+          city: Granada, Spain
+  - name: Blas Valero-Garcés
+    affiliations: 
+        - id: csic-ipe
+          name: Instituto Pirenaico de Ecología-CSIC
+          department: Quaternary Paleoenvironments and Global Change
+          address: Avda. Montañana, 1005
+          city: Zaragoza, Spain
+  - name: Francisca P. Díaz
+    affiliations: 
+        - id: ieb
+          name: Instituto de Ecología y Biodiversidad, Chile
+          address: Las Palmeras 3425, Ñuñoa
+          city: Santiago, Chile
+          postal-code: 7800024
+        - id: aforest
+          name: ANID-Millennium Science Initiative Nucleus (AFOREST)
+          city: Santiago, Chile
+          address: Vicuña Mackenna 4860, Macul
+          postal-code: 7820436
+        - id: pucv
+          name: Pontificia Universidad Católica de Valparaíso. Instituto de Geografía
+          city: Valparaíso, Chile
+          address: Avenida Brasil 2241
+          postal-code: 2362807  
+  - name: Matías Briseño
+    affiliations: 
+        - id: puc
+          name: Pontificia Universidad Católica de Chile
+          department: Departamento de Ecología
+          address: Av. Libertador Bernardo O'Higgins 340.
+          city: Santiago, Chile
+  - name: Manuel Bustos-Morales
+    affiliations: 
+        - id: puc
+          name: Pontificia Universidad Católica de Chile
+          department: Departamento de Ecología
+          address: Av. Libertador Bernardo O'Higgins 340.
+          city: Santiago, Chile
+  - name: Claudio Latorre,
+    email: clatorre@bio.puc.cl  
+    affiliations: 
+        - id: puc
+          name: Pontificia Universidad Católica de Chile
+          department: Departamento de Ecología-Centro UC Desierto de Atacama
+          address: Av. Libertador Bernardo O'Higgins 340.
+          city: Santiago, Chile
+        - id: ieb
+          name: Instituto de Ecología y Biodiversidad, Chile
+          address: Las Palmeras 3425, Ñuñoa
+          city: Santiago, Chile
+          postal-code: 7800024
+        - id: upwell
+          name: ANID-Millennium Science Initiative Nucleus (UPWELL)
+          city: La Serena, Chile
+          address: Raúl Bitrán 1305    
+    attributes:
+        corresponding: true                                        
+abstract: |
+  Leaf cuticular waxes are one of the most important environment-plant interaction structural systems that enable desert plants to withstand extreme climatic conditions. We present a long chain *n*-alkyl lipids study in fresh plant leaves and rodent paleomiddens collected along an elevational gradient in the south-central Atacama Desert of Chile, covering six different vegetation physiognomies: Steppe (4,500-4,000 m asl), Puna (4,000-3,300 m asl), Prepuna (3,300-2,400 m asl), Absolute Desert (2,400-2,000 m asl), Desert (1,000-2,000 m asl), and Coastal Desert (1,000-0 m asl). The 28 rodent paleoenvironments analysed from Quebrada Incahuasi (25.6 $^\circ$S, 3,600 m asl) span the last 17,000 years. The distribution of long-chain *n*-alkanes and *n*-alkanoic acids varies among the dominant plant associations of the Atacama Desert. These plants show a species-specific chemotaxonomy linked to the climatic conditions. Furthermore, differences in average chain length (ACL) and carbon preference index (CPI) suggest that these plant communities have adapted to these extreme environmental conditions. The sum of leaf wax *n*-alkanes was highest under wet conditions, while *n*-alkanoic acids (between *n*-$C_{24}$ and *n*-$C_{28}$) increased with hyperaridity. Similarly, analysis of *n*-alkane time series from paleomiddens showed that the greatest changes in leaf wax *n*-alkane distributions (ACL and CPI) corresponded to the greatest increases in moisture during the Central Andean Pluvial Event (CAPE; between 18 and 9 ka cal BP) and the Late Holocene. The shift in the paleomidden *n*-alkane distributions is corroborated by the relative abundance of rainfall-dependent extra-local taxa. This is the first study to report leaf wax content obtained from ancient rodent middens, and shows promising results as a robust hydroclimate proxy for the Atacama Desert region.
+keywords: 
+  - Leaf cuticular waxes
+  - Rodent Middens
+  - Atacama Desert 
+  - Hydroclimate
+  - Quaternary
+date: "Original date 2023-01-6,  Updated - `r Sys.Date()`"
+bibliography: bibliography.bib
+format:
+  elsevier-pdf:
+    keep-tex: true
+    journal:
+      name: Quaternary Science Reviews
+      formatting: preprint
+      model: 3p
+      cite-style: authoryear
+      csl: https://www.zotero.org/styles/elsevier-harvard
+header-includes:
+   - \usepackage{setspace}
+   - \doublespacing
+---
+
+# Supplementary Result
+
+## Abundance and distribution of long-chain *n*-alkane and *n*-alkanoic acids in leaf cuticular waxes in plants along an environmental gradient in the Atacama Desert.
+
+Several studies have characterized the relationship between leaf wax concentrations and environmental variables along elevational gradients as an approach to understanding past climatic changes [@cerda-penaMolecularNalkylLeaf2020; @feakinsProductionLeafWax2016; @jansenStraightchainLipidBiomarker2006; @nieto-morenoElevationdependentChangesNalkane2016; @shepherdEffectsStressPlant2006]. We observe a high variability in the total abundance of wax chain lengths within and between the vegetation belts. (Figure 1S and @tbl-1 example). For leaf wax *n*-alkanoic acids, the species with higher total abundance were Ephedra sp, Junellia seriphioides and Haplopappus rigidus, with intraspecific differences ranging from 211 to 1615 ug/gdw for Ephedra sp (see @tbl-1 example). Total *n*-alkanoic acids abundances range from 375.88 ug/gdw in *Junellia seriploide* ($CPI_{median}$ = 8.29 $\pm$ 1.6; $ACL_{median}$ = 24.91 $\pm$ 0.13) to 91.16 ug/gdw in Cristaria integerrima ($CPI_{median}$ = 5.8; $ACL_{median}$ = 25.69). Total *n*-alkanes abundances range between 70 $\pm$ 61 ug/gdw in *Ephedra* sp. ($CPI_{median}$ = 8 $\pm$ 4 ; $ACL_{median}$ = 28.16 $\pm$ 1.57) to 789.95 ug/gdw in *Perityle emoryi* ($CPI_{median}$ = 14 ; $ACL_{median}$ = 28). The distribution of the chain lengths in Pappostipa frigida (Steppa, Puna and Prepuna) was characterized by a higher abundance between *n*-$C_{26}$/*n*-$C_{27}$ and *n*-$C_{30}$/*n*-$C_{31}$ where the dominant carbon was *n*-$C_{28}$/*n*-$C_{29}$. *Junellia seriphioides* (Puna) has a higher abundance of chai*n*-length between *n*-$C_{20}$ to *n*-$C_{28}$ and *n*-$C_{21}$ to *n*-$C_{33}$ carbon atoms in *n*-alkanoic acids and *n*-alkanes, respectively. The dominant carbon length chain is *n*-$C_{21}$ alkane, while in *n*-alkanoic acids are *n*-$C_{22}$, *n*-$C_{24}$ and *n*-$C_{28}$. *Haplopappus rigidus* (Puna and Prepuna) has a higher abundance of chain-lengths between *n*-$C_{22}$/*n*-$C_{23}$ to *n*-$C_{30}$/ *n*-$C_{31}$, *n*-$C_{23}$ *n*-alkane dominated the apolar lipid fractions while the polar fractions were dominated by *n*-$C_{28}$ and *n*-$C_{30}$. *Aloysia deserticola* (Puna and Prepuna) produced relatively less total long-chain *n*-alkane than other species and has wider distribution. The apolar lipid fractions were dominated by *n*-$C_{27}$, *n*-$C_{29}$, *n*-$C_{31}$ and *n*-$C_{33}$. In contrast, the polar fractions were less abundant and well distributed along all carbon atom chain-lengths distributions of fatty acid. *Atriplex imbricata* (Prepuna and Hyperarid Desert), has a higher abundance of chain-lengths between *n*-$C_{20}$ to *n*-$C_{30}$ and *n*-$C_{25}$ to *n*-$C_{31}$ carbon atoms, where *n*-$C_{27}$ alkane and *n*-$C_{28}$ *n*-alkanoic acid are the dominant carbon lengths chain. *Tiquilia atacamensis* (hyperarid zone) has wider and asymmetric waxes distributions than other species ---from *n*-$C_{18}$/*n*-$C_{19}$ to *n*-$C_{33}$/*n*-C34, respectively--- where the *n*-$C_{27}$, *n*-$C_{29}$ and *n*-$C_{31}$ alkanes and *n*-$C_{18}$, *n*-$C_{20}$, *n*-$C_{22}$ and *n*-$C_{24}$ alkanoics acid were the waxes predominated with *n*-$C_{29}$ and *n*-$C_{22}$ as the dominant carbon length chains, respectively. *Ephedra americana* has a higher abundance of *n*-alkanes and *n*-alkanoic acid with chain-lengths between *n*-$C_{21}$ to *n*-$C_{31}$ and *n*-$C_{22}$ to *n*-C32 carbon atoms, respectively. In *Ephedra americana*, the chain-lengths of *n*-alkanes and *n*-alkanoic acid more abundant are the *n*-$C_{31}$ and *n*-$C_{28}$ carbon atoms, respectively. In *Nolana aplocaryoides*, the *n*-alkanes and *n*-alkanoic acids of higher abundances were the chain lengths *n*-$C_{25}$ to *n*-$C_{31}$ and *n*-$C_{18}$ to *n*-$C_{28}$, respectively, with *n*-$C_{29}$ and *n*-$C_{18}$ carbon atoms the dominants. We only extracted the *n*-alkanes in *Perityle emoryi*, the chain length distribution of this species was between *n*-$C_{27}$ to *n*-$C_{31}$ where the *n*-$C_{29}$ carbon atom is most abundant. In *Cristaria integerrima*, we only extracted the fatty acid where the chain length distribution has between *n*-$C_{28}$ to *n*-$C_{20}$ (Figure 1S).
+
+![Abundance of long-chain *n*-alkane and *n*-alkanoic acids in leaf cuticular waxes by specie](images/Fig_1S.png)
+
+![Total abundances of individual long chains (*n*-alkane and *n*-alkanoic acids) in leaf cuticular waxes along an environmental gradient](images/Fig_2S.png)
+
+## Correlations between leaf cuticular waxes and the temperature and precipitation of the last 10 years in the Atacama Desert
+
+To study the relationship between *n*-alkyl lipid total abundances and climate, we use the CR2MET gridded product which contains regional precipitation, average temperature, minimum temperature and maximum temperature values with a resolution of 0.05 degrees (https://www.cr2.cl/datos-productos-grilados/). We calculated 19 bioclimatic layers that were used to evaluate different predictive supervised models of *n*-alkanes from no more than 3 input parameters.
+
+![Correlations between leaf waxes (*n*-alkanes and *n*-alkanoic acids) and the temperature and precipitation of the last 10 years in the Atacama Desert.](images/Fig_3S.png)
+
+![Correlations between leaf waxes (*n*-alkanes and *n*-alkanoic acids) and climate parameters from CR2MET gridded product which contains regional precipitation, average temperature, minimum temperature and maximum temperature values with a resolution of 0.05 degrees include of the last 10 years in the Atacama Desert](images/Fig_4S.png)
+
+
+![Photographs of midden sites and collection. Note very low plant abundance on alluvial landscapes and adjacent ignimbrite scarps. Middens come from rock shelters along the scarp and from underneath boulders strewn across the hillslope. *n*-Alkanes in grasses and fecal pellets of two paleomiddens from Quebrada Incahuasi (QIN237-B and QIN214-B; 970 and 11780 a cal BP, respectively).](images/Fig_5S.png)
+
+![Biplot for abundance of macrofossils and *n*-alkanes (µg/g dw) measured in fecal pellets from 25 paleomiddens spanning the last 17 cal kyr BP from Quebrada Incahuasi. Axis RDA1 explains 40,44% of the total variance, and axis RDA2 explains 28% of the total variance. Both RDA1 and RDA2 explain ca. 69% of the total variance in the original dataset and considering the outliers of the total content. *Phacelia cuminingii*, *Phacelia pinnatifida*, *Junellia bryoides*, *Cistanthe* sp., *Ephedra americana*, *Gilia* sp., *Haplopappus* sp., *Cryptantha* sp., *Baccharis aff. tola*, *Brassicaceae aff. Atacama nivea*, *Pappostipa frigida*, *Cristaria* sp., *Fabiana* sp., *Chenopodiaceae*, *Malvaceae*, *Adesmia* sp., local (*Lc*) and extra-local (*Ex*) specie were used to generate the RDA.](images/Fig_6S.png)
+
+
+# Tables
+
+```{r}
+#| label: tbl-1
+#| tbl-cap: Summary statistics of leaf wax *n*-alkanes and *n*-alkanoic acids abundance
+#| echo: false
+#| message: false
+library(tidyverse)
+library(here)
+data <- read_csv(here::here("data/raw-data/2021-12-08_nalkane_fames_concentration.csv"))
+
+# Group the data by Species and wax
+data_by_wax <- dplyr::group_by(data, Species = as.factor(Species), wax = as.factor(wax))
+
+
+# Relevel the Species factor and calculate summary statistics
+data_by_wax <- dplyr::mutate_at(data_by_wax, "Species", fct_relevel, .default = "Middens", "Surface Sediment") %>% dplyr::summarize(n = n(),
+                                                                                                                              mean_abundance = mean(abu_total, na.rm = TRUE),
+                                                                                                                              sd_abundance = sd(abu_total, na.rm = TRUE),
+                                                                                                                              median_CPI = median(CPI, na.rm = TRUE),
+                                                                                                                              mad_CPI = mad(CPI, na.rm = TRUE),
+                                                                                                                              median_ACL = median(ACL, na.rm = TRUE),
+                                                                                                                              mad_ACL = mad(ACL, na.rm = TRUE))
+
+# Load the gt package
+
+library(gt)
+
+# Generate the table
+data_by_wax %>%
+  gt() %>%
+  tab_source_note(source_note = c("TA [ug/gdw]; Total Abundance", "TA mad; median absolute deviation form Total Abundance"))
+```
+
+# Supplementary Discussion
+
+Compared to other deserts, most of the plants in the south-central Atacama landscapes incorporate atmospheric $CO_{2}$ through the $C_{3}$ photosynthetic pathway ---although there are several CAM species [@ehleringerCarbonIsotopeRatios1998]. Only a few perennial shrubs and summer annual herbs $C_{4}$ grow in higher temperature and moisture zones. In the Steppe, species composition was mainly of the Poaceae family, dominated by *Pappostipa frigida* which shows high leaf waxes abundance of chain length *n*-$C_{28}$/*n*-$C_{29}$ and *n*-$C_{30}$/*n*-$C_{31}$ (Figure 1S). @diefendorfExtractingMostTerrestrial2017 describe in $C_{3}$ graminoids that the dominant *n*-alkane was *n*-$C_{31}$, followed by *n*-$C_{33}$ and *n*-$C_{29}$. In the Puna, in addition to *P. frigida*, the landscape was dominated by the species *H. rigidus* and *J. seriphioides*. These species containing high abundances of *n*-$C_{25}$/*n*-$C_{28}$ and *n*-$C_{21}$/*n*-$C_{22}$, respectively (Figure 1S). In the Prepuna, the species *Atriplex imbricata* (Amaranthaceae), *Aloysia deserticola* and *Haplopappus rigidus* are predominant. The $C_{4}$ sub-shrub *A. imbricata* showed a wide distribution along the altitudinal gradient (between 1,700 and 3,200 m asl) and higher abundances of *n*-$C_{28}$/*n*-$C_{27}$ chain length followed by *n*-$C_{24}$/*n*-$C_{25}$, *n*-$C_{28}$/*n*-$C_{29}$ and *n*-$C_{30}$/*n*-$C_{31}$ (Figure 1S). In addition, the abundance of *n*-alkanes in *A. imbricata* presents significantly correlates with elevation (p \< 0.001; $R^{2}$= 0.8, Figure 2S). In Africa, Australia, and North America, $C_{4}$ plants show much higher abundances of the alkanes *n*-$C_{29}$, *n*-$C_{31}$ and *n*-$C_{33}$ [@carrLeafWaxNalkane2014; @feakinsProductionLeafWax2016; @garcinReconstructingC3C42014; @howardModellingLeafWax2018; @vogtsDistributionPatternsStable2009]. *A. deserticola* contains a higher abundance of *n*-alkane *n*-$C_{31}$ followed by *n*-$C_{29}$, and in general, shows lower abundances of *n*-alkanoic acids compared to *n*-alkanes. *H. rigidus* shows a higher abundance of *n*-$C_{25}$. In the hyperarid desert, we found only two species, *T. atacamensis* and *A. imbricata*. *T. atacamensis* showed a clear dominance of *n*-$C_{22}$/*n*-$C_{29}$. This asymmetric distribution between *n*-alkanes and *n*-alkanoic acids chain length abundances could be a structural adaptation to extreme aridity ---generating higher abundances of short- and medium- *n*-alkanoic acids chain length as precursors to other aliphatic compounds of cuticular waxes--- thereby favoring hydrophobic conditions that reduce water loss [@bushLeafWaxNalkane2013; @contrerasLeafWaxComposition2022; @mackovaPlantResponseDrought2013; @shepherdEffectsStressPlant2006]. On the coast, *C. integerrima* and *N. aplocaryoides* were the dominant species with chain lengths of *n*-$C_{27}$ and *n*-$C_{29}$, respectively. However, in the field, we found low species abundance and richness. These data generally support the idea that the dominant *n*-alkane chain abundances have strong species-specific chemotaxonomic signatures [@cerda-penaMolecularNalkylLeaf2020].
+
+
+# References {.numbered}
