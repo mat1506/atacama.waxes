@@ -25,7 +25,7 @@ Please cite this compendium as:
 > from the south-central Atacama Desert, Chile. Quat. Sci. Rev. 311,
 > 108084. <https://doi.org/10.1016/j.quascirev.2023.108084>
 
-## How to cite
+## Abstract
 
 Leaf cuticular waxes are one of the most important environment-plant
 interaction structural systems that enable desert plants to withstand
