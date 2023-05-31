@@ -65,12 +65,6 @@ This repository is structured as follow:
 - [`analyses/`](https://github.com/mat1506/atacama.waxes/tree/master/analyses/):
   contains R scripts to run each step of the workflow
 
-- [`outputs/`](https://github.com/mat1506/atacama.waxes/tree/master/outputs):
-  contains all the results created during the workflow
-
-- [`figures/`](https://github.com/mat1506/atacama.waxes/tree/master/figures):
-  contains all the figures created during the workflow
-
 - [`R/`](https://github.com/mat1506/atacama.waxes/tree/master/R):
   contains R functions developed especially for this project
 
