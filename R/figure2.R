@@ -26,8 +26,7 @@ prepare_fig2data <- function(file_path) {
 # Calculate the relative abundance percentages in the subset of columns
 
   porcentajes <- total_abundance %>%
-    rowwise() %>%
-    mutate(across(-Total, ~ (.x / Total) * 100)) %>%
+    mutate_at(vars(-Total), ~ ifelse(Total != 0, (. / Total) * 100, 0)) %>%
     select(-Total) %>%
     ungroup()
 
