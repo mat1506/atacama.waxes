@@ -4,7 +4,7 @@
 # atacama.waxes
 
 <!-- badges: start -->
-
+[![DOI](https://zenodo.org/badge/584162411.svg)](https://doi.org/10.5281/zenodo.15354457)
 [![License: GPL (\>=
 2)](https://img.shields.io/badge/License-GPL%20%28%3E%3D%202%29-blue.svg)](https://choosealicense.com/licenses/gpl-2.0/)
 [![Dependencies](https://img.shields.io/badge/dependencies-2/94-green?style=flat)](#)
